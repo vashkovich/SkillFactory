@@ -1,0 +1,35 @@
+Курсовой проект для курса "Data Science"
+
+Материалы к проекту (файлы):
+data.csv
+
+
+Задание:
+Используя данные из data.csv, построить
+модель для предсказания цен на недвижимость (квартиры).
+
+Описание данных:
+	status - тип заявки
+	private pool - бассейн
+	price - цена
+	propertyType - тип строения
+	street - улица
+	baths - сколько туалетов / душевых
+	homeFacts - Краткий обзор признаков
+	fireplace - пожарная лестница (место для пожарных)
+	city - город
+	schools - школы
+	sqft - квадратные футы
+	zipcode - zipcode
+	beds - кроватей
+	state - штат
+	stories - магазины
+	mls-id - id для риэлторов (https://en.wikipedia.org/wiki/Multiple_listing_service)
+	PrivatePool - приватный бассейн
+	MlsId - еще вариант id для риэлторов
+
+
+Целевая переменная:
+Price
+
+
